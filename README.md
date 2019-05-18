@@ -1,10 +1,6 @@
-Eight-Puzzle-Solver:
-===============
-
+# Eight-Puzzle-Solver:
 A solver for the 8 puzzle in Rust using the A* search algorithm.
 
-### Example:
-Running the project will generate a random puzzle and attempt to solve it. Upon finding a solution, the solution will be displayed and simulated. The solution consists of directions the gap square would move to solve the puzzle. The gap square is represented as the number 8.
 ```
 $ cargo run
 Initial state:
