@@ -1,0 +1,13 @@
+[package]
+name = "Eight-puzzle-solver"
+version = "0.1.0"
+authors = ["Shubham Jaiswal <jaiswalshubham479@gmail.com>"]
+
+[features]
+unstable = []
+
+[dependencies]
+rand = "*"
+
+[dependencies.heap]
+path = "../heap"
