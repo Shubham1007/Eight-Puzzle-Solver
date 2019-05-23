@@ -1,6 +1,8 @@
 
 
 
+
+
 # Eight-Puzzle-Solver:
 A solver for the 8 puzzle in Rust using the A* search algorithm.
 
